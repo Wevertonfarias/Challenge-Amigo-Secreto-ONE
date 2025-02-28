@@ -19,6 +19,6 @@ Este repositório é a conclusão do Challenge Desafio Amigo Secreto, proposto p
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/Wevertonfarias/Challenge-Amigo-Secreto-ONE
 2. Abra o arquivo `index.html` no seu navegador.
 3. Adicione nomes à lista e clique em "Sortear Amigo" para ver o resultado.
